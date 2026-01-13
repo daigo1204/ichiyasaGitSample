@@ -1,3 +1,4 @@
+```mermaid
 classDiagram
     class GameManager {
         -bool isGameOver
